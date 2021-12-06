@@ -1,4 +1,4 @@
-## Advent of Code 2021
+### Advent of Code 2021🎄
 I love Christmas like few other stuff;
 
 The Advent of Code combines programming and Christmas, so what's better than resolving AoC puzzle while listening some Michael Bublé songs? ⛄
