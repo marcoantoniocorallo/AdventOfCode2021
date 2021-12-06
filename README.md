@@ -1,7 +1,7 @@
 I love Christmas like few other stuff;
 The Advent of Code combines programming and Christmas, so what's better than resolving AoC puzzle while listening some Michael Bublé songs? ⛄
 For this year I've decided to use Python: enjoy it!
-
+```
 
          |
         -+-
@@ -19,5 +19,4 @@ For this year I've decided to use Python: enjoy it!
 i/ *   O   O   * \i
 /=================\
        |___|
-       
-
+```
